@@ -1,9 +1,8 @@
-# owasp-asvs-checklist
-OWASP ASVS checklist for audits
-
-![Link of the OWASP ASVS Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
+# OWASP ASVS checklist for audits
 
 @author Batard Florent (http://code-artisan.io)
+
+[Link of the OWASP ASVS Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
 
 This document aims at helping you using ASVS more efficiently and in a simpler way.
 
