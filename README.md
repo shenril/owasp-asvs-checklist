@@ -1,6 +1,11 @@
 # OWASP ASVS checklist for audits
 
-@author Batard Florent (http://code-artisan.io)
+## Contributors
+@shenril (Batard Florent - http://code-artisan.io)
+
+@lyz-code
+
+@emilva
 
 [Link of the OWASP ASVS Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
 
