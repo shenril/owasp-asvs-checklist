@@ -14,7 +14,7 @@ This document aims at helping you using ASVS more efficiently and in a simpler w
 
 You have the choice between Excel format and OpenDocument
 
-This checklist is compatible with the version 4.0.1 of ASVS you can find [here](https://github.com/OWASP/ASVS/raw/master/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0-en.pdf)
+This checklist is compatible with the version 4.0.2 of ASVS you can find [here](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.2-en.pdf)
 
 Older versions of the checklist are also available in the [**Release**](https://github.com/shenril/owasp-asvs-checklist/releases) section.
 
