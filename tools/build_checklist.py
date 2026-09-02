@@ -388,7 +388,7 @@ def build_results_sheet(workbook: Workbook, chapters: "OrderedDict[str, dict]") 
     chart.title = "Validity Percentage"
     chart.y_axis.scaling.min = 0
     chart.y_axis.scaling.max = 100
-    chart.height = 20
+    chart.height = 17
     chart.width = 24
     data = Reference(sheet, min_col=4, min_row=1, max_row=total_row)
     categories = Reference(sheet, min_col=1, min_row=first_row, max_row=total_row)
